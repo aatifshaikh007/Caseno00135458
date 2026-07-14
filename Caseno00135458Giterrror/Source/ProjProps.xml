@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="14121.00"/>
+    <WithIsn val="Y"/>
+    <LastIsn val="0"/>
+  </Header>
+
+  <ProjectProperties>
+    <ProjectData>
+      <GUID val="{622E24D3-B583-4C85-B0B8-AA662DC9F0CF}"/>
+      <RemoteFlowMonitorRight comp="-1"/>
+      <RTInternalColorDefinitionFile val="D:\MSE\M4121\Support\clr_int.eng"/>
+      <NulArithmetic val="N"/>
+      <WindowSortBy val="R"/>
+      <_SystemPulldownMenu comp="-1" obj="4"/>
+      <_SystemContextMenu comp="-1"/>
+      <ExposeComment val="N"/>
+      <ProjectName val="Caseno00135458Giterrror"/>
+    </ProjectData>
+  </ProjectProperties>
+
+</Application>
