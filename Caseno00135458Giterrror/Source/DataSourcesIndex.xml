@@ -1,24 +1,23 @@
- <Application>
- 
-<Header>
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
 
-  <Version val="14121.00"/>
+  <Header>
+    <Version val="14121.00"/>
+    <WithIsn val="Y"/>
+    <Exe comp="-1"/>
+    <LastIsn val="2"/>
+    <LastIsnFolder val="0"/>
+  </Header>
 
-  <WithIsn val="Y"/>
+  <DataRepositoryProperties/>
 
-  <Exe comp="-1"/>
+  <DataSourceRepository>
+    <DataObjects>
+      <DataObject PhysicalName="Customers" Resident="N" UniqueISNConvState="12" data_source="Mssql" id="1" length="5970" name="Customers" offset="245"/>
+      <DataObject PhysicalName="actor" Resident="N" UniqueISNConvState="12" data_source="Mssql" id="2" length="5492" name="actor" offset="6216"/>
+    </DataObjects>
+  </DataSourceRepository>
 
-  <LastIsn val="2"/>
+  <LastModified val="312656372195612"/>
 
-  <LastIsnFolder val="0"/>
-
-</Header>
-
-<DataRepositoryProperties/>
- <DataSourceRepository>
-  <DataObjects>
- 
-<DataObject PhysicalName="Customers" Resident="N" UniqueISNConvState="12" data_source="Mssql" id="1" name="Customers" offset="228" length="5803"/> 
-<DataObject PhysicalName="actor" Resident="N" UniqueISNConvState="12" data_source="Mssql" id="2" name="actor" offset="6032" length="5336"/>  </DataObjects>
- </DataSourceRepository>
- <LastModified val="31265636112382001"/>  </Application>
+</Application>
